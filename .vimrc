@@ -7,12 +7,12 @@ set expandtab
 call plug#begin()
 Plug 'tpope/vim-sensible'
 Plug 'artur-shaik/vim-javacomplete2'
-Plug 'https://github.com/rking/ag.vim'
-Plug 'https://github.com/vim-syntastic/syntastic'
-Plug 'https://github.com/scrooloose/nerdtree'
-Plug 'https://github.com/Valloric/YouCompleteMe'
-Plug 'https://github.com/ntpeters/vim-better-whitespace'
-Plug 'https://github.com/thinca/vim-quickrun'
+Plug 'rking/ag.vim'
+Plug 'vim-syntastic/syntastic'
+Plug 'scrooloose/nerdtree'
+Plug 'Valloric/YouCompleteMe'
+Plug 'ntpeters/vim-better-whitespace'
+Plug 'thinca/vim-quickrun'
 call plug#end()
 
 " Keymaps
