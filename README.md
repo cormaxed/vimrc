@@ -17,7 +17,7 @@ source ~/.bash_profile
 
 ## Install a Plugin Manager
 
-Vim-plug is minialist plugin manager.
+Vim-plug is minimalist plugin manager.
 
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
