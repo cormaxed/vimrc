@@ -3,6 +3,7 @@ filetype on                   " required
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set clipboard=unnamed
 
 call plug#begin()
 Plug 'tpope/vim-sensible'
@@ -13,6 +14,8 @@ Plug 'scrooloose/nerdtree'
 Plug 'Valloric/YouCompleteMe'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'thinca/vim-quickrun'
+Plug 'vim-scripts/Conque-Shell'
+Plug 'jvirtanen/vim-octave.git'
 call plug#end()
 
 " Keymaps
